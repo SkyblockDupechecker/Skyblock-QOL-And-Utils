@@ -1,5 +1,5 @@
 # Skyblock-QOL-And-Utils
-# PTC-1.8.9
+# PTC-1.8.9_2.9.2
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data for duped items. If duped items appear, it will make background of the item red.
 
 # Installation
