@@ -1,5 +1,9 @@
 # Skyblock-QOL-And-Utils
-# PTC-1.8.9_2.9.2
+# Update!
+The dupechecker is now UPDATED! 
+Now you will be able to change the colours of the'Duped' text. And now it will show if the item is duped at 99%! I will change the info every time i update the mod.
+
+# PTC-1.8.9_2.9.3
 A simple but useful Hypixel Skyblock mod for forge 1.8.9 that checks NBT data for duped items. If duped items appear, it will make background of the item red.
 
 # Installation
